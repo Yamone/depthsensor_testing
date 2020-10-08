@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  OPENnitestDlg.cpp
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(221): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(255): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(256): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(185): warning C4101: 'a': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(185): warning C4101: 'v': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(183): warning C4101: 'yc': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(178): warning C4101: 'red': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(177): warning C4101: 'py': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(185): warning C4101: 'b': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(178): warning C4101: 'blue': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(177): warning C4101: 'px': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(183): warning C4101: 'xc': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(187): warning C4101: 'tmpStore': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(185): warning C4101: 'u': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(178): warning C4101: 'green': unreferenced local variable
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(368): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(342): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(343): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(344): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(352): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\user\desktop\opennitest\opennitest\opennitestdlg.cpp(319): warning C4101: 'fp': unreferenced local variable
+  OPENnitest.cpp
+  Generating Code...

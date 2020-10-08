@@ -1,0 +1,16 @@
+﻿  OPENnitestDlg.cpp
+OPENnitestDlg.cpp(220): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OPENnitestDlg.cpp(174): warning C4101: 'fs': unreferenced local variable
+OPENnitestDlg.cpp(327): warning C4101: 'fp': unreferenced local variable
+OPENnitestDlg.cpp(433): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OPENnitestDlg.cpp(391): warning C4101: 'y': unreferenced local variable
+OPENnitestDlg.cpp(391): warning C4101: 'x': unreferenced local variable
+OPENnitestDlg.cpp(387): warning C4101: 'fpcl': unreferenced local variable
+OPENnitestDlg.cpp(387): warning C4101: 'fs': unreferenced local variable
+  Generating code
+  7 of 387 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OPENnitest.vcxproj -> C:\Users\PIG2\Desktop\OPENnitest\x64\Release\OPENnitest.exe
+  OPENnitest.vcxproj -> C:\Users\PIG2\Desktop\OPENnitest\x64\Release\OPENnitest.pdb (Full PDB)
